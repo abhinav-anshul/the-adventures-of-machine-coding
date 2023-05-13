@@ -1,0 +1,16 @@
+{
+  "name": "amazon-star-widget",
+  "version": "1.0.0",
+  "description": "<!-- https://leetcode.com/discuss/interview-question/546992/amazon-phone-front-end-engineer-ii --> Basic takeaway is that, in spite of what the recruiter says, FEE interviews are different material than SDE interviews. This caught me off guard as I had studied algos, data structures, etc. Recruiter said \"all engineers at Amazon are interviewed on the same material\". Not really the case in my experience.... Hope this helps others.",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "abhinav",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
